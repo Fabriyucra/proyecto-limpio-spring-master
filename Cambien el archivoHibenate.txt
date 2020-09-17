@@ -1,0 +1,2 @@
+cambien el archivo hibernate para q funcione pero alli esta el original 
+tienen q poner a punto su Mysql para que funcione con ese 
